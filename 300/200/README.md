@@ -1,3 +1,3 @@
 # 200 - Use Case(s) Diagram
 
-![Use_Cases_Master_Security](https://user-images.githubusercontent.com/1499433/213690503-a33f5926-7c64-40f9-a952-60204757c706.jpg)
+![Learning-Security_Use-Cases](https://user-images.githubusercontent.com/1499433/225610640-29a81af6-bec1-41c7-b06a-57c346765462.png)
