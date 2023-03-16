@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "themes.html",
-    "href": "themes.html",
-    "title": "Themes",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-security-themes/"
+    "text": "About this site"
   },
   {
     "objectID": "initiative.html",
@@ -21,11 +21,11 @@
     "text": "Table of contents\n\nLearning Security"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "themes.html",
+    "href": "themes.html",
+    "title": "Themes",
     "section": "",
-    "text": "About this site"
+    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-security-themes/"
   },
   {
     "objectID": "index.html",
